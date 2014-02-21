@@ -4,3 +4,6 @@
 [submodule "umwdomains"]
 	path = umwdomains
 	url = git@github.com:DTLT/dooo.git
+[submodule "general"]
+	path = general
+	url = git@github.com:timmmmyboy/federated-content.git
