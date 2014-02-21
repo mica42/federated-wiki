@@ -1,0 +1,3 @@
+[submodule "reclaimhosting"]
+	path = reclaimhosting
+	url = git@github.com:reclaimhosting/knowledge-base.git
