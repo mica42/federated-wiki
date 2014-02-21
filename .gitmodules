@@ -1,3 +1,6 @@
 [submodule "reclaimhosting"]
 	path = reclaimhosting
 	url = git@github.com:reclaimhosting/knowledge-base.git
+[submodule "umwdomains"]
+	path = umwdomains
+	url = git@github.com:DTLT/dooo.git
